@@ -1,0 +1,14 @@
+.venv/
+.env
+.git/
+.gitignore
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+notebook/
+src/
+data/memory/
+data/vector_store/
+data/text_file/
+data/text_files/
